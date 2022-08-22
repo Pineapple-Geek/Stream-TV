@@ -1,2 +1,2 @@
 # Stream-TV
-Streaming gratuit depuis TomaCloud
+Plugin pour Kodi qui permet le streaming gratuit depuis TomaCloud sur la base du site Zifub

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.example"
-version="2.4.0"
+<addon id="stream.tv"
+version="1.1.0"
 name="Stream TV"
 provider-name="PineApple-Geek">
 <requires>
